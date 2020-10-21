@@ -1,0 +1,20 @@
+{
+    "edad": "25",
+    "nombre": {
+        "primerNombre": "André",
+        "apellido": "Brito"
+    },
+    "direccion": {
+        "numeroDeCasa": "Oe2-123n",
+        "callePrincipal": "Florida"
+    },
+    "exNovias": [
+        "Kerly",
+        "Amelia",
+        "Vanessa",
+        "Nicole"
+    ],
+    "padre": {
+        "nombre": "Jaime"
+    }
+}
