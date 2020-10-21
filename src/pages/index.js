@@ -5,7 +5,7 @@ import Quote from "../components/quote"
 import homePageData from "../content/data/homePage.json"
 
 export default function Home() {
-
+  
   return (
     <div>
       <Tarjeta
@@ -57,6 +57,10 @@ export default function Home() {
         canal={homePageData.nombre.apellido}
         numeroVisualizaciones="271K views"
         hora="2 hours ago"
+      />
+      <Quote
+        quote="Los lunes son feos"
+        backgroundColor="bg-orange-500"
       />
       <CardGrid>
       <Tarjeta
